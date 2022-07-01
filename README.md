@@ -2,5 +2,5 @@
 
 
 
-This repository contains the MATLAB implementation of "Incremental evolving domain adaptation" (accepted by IEEE Transactions on Knowledge and Data Engineering (TKDA)).
+This repository contains the MATLAB implementation of "Incremental evolving domain adaptation" (accepted by IEEE Transactions on Knowledge and Data Engineering, 2016 (TKDA)).
 

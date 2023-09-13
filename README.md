@@ -1,6 +1,6 @@
-# Incremental evolving domain adaptation
-
 This repository contains the codes (in MATLAB) for [Incremental evolving domain adaptation](https://ieeexplore.ieee.org/document/7448405) published in [[IEEE Transactions on Knowledge and Data Engineering, 2016]](https://www.scimagojr.com/journalsearch.php?q=17362&tip=sid).
+
+![FinalLearning](https://github.com/AdelehBitarafan/EDA/assets/70052073/031d50e5-8311-4caf-a93d-80fee0bf9ba7.png)
 
 
 **Abstract:**
